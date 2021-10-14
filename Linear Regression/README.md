@@ -24,3 +24,7 @@ Evaluation metric: Root Mean Squared Error (RMSE)
 * Multiple Linear Regression - 15.84
 * Decision Tree - 22.90
 * Random Forest - 18.18
+
+## Model Prediction:
+![model](https://user-images.githubusercontent.com/83487183/137315217-4f68d497-9cc0-4dc5-9a9a-99c6505d0c5f.PNG)
+
