@@ -2,25 +2,25 @@
 ![ppl](https://user-images.githubusercontent.com/83487183/137313600-0b078370-033e-489c-95f1-a3e43097530b.jpg)
 
 ## Project Overview:
-• Created a model that predicts the score (in terms of range) of IPL matches
-• Optimized Multiple-Linear, Decision Tree, Random Forest.
+* Created a model that predicts the score (in terms of range) of IPL matches
+* Optimized Multiple-Linear, Decision Tree, Random Forest.
 
 ## How will this project help?
-• This project is for the fantasy cricket fans out there, helping them to earn extra fantasy points for Dream11 IPL 2020
+* This project is for the fantasy cricket fans out there, helping them to earn extra fantasy points for Dream11 IPL 2020
 
 ## Resources Used:
-• Packages: pandas, numpy, sklearn, matplotlib, seaborn
-• Dataset by Shivam Mitra: https://github.com/codophobia/CricketScorePredictor
+* Packages: pandas, numpy, sklearn, matplotlib, seaborn
+* Dataset by Shivam Mitra: https://github.com/codophobia/CricketScorePredictor
 
 ## Data Cleaning and Preprocessing:
-• Removing unwanted columns
-• Keeping only consistent teams
-• Removing the first 5 overs data in every match
-• Converting the column 'date' from string into datetime object
-• Handling categorical features
+* Removing unwanted columns
+* Keeping only consistent teams
+* Removing the first 5 overs data in every match
+* Converting the column 'date' from string into datetime object
+* Handling categorical features
 
 ## Model Building and Evaluation:
 Evaluation metric: Root Mean Squared Error (RMSE)
-• Multiple Linear Regression - 15.84
-• Decision Tree - 22.90
-• Random Forest - 18.18
+* Multiple Linear Regression - 15.84
+* Decision Tree - 22.90
+* Random Forest - 18.18
