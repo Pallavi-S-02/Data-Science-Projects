@@ -6,7 +6,7 @@
 * Optimized Multiple-Linear, Decision Tree, Random Forest.
 
 ## How will this project help?
-* This project is for the fantasy cricket fans out there, helping them to earn extra fantasy points for Dream11 IPL 2020
+* This project is for the fantasy cricket fans out there, helping them to earn extra fantasy points for Dream11 IPL 
 
 ## Resources Used:
 * Packages: pandas, numpy, sklearn, matplotlib, seaborn
